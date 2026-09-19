@@ -1,0 +1,2 @@
+# ustc_auto_elective
+ustc_auto_elective，用你的agent配置选课吧
